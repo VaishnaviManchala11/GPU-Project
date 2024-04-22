@@ -8,11 +8,7 @@ python 3.11.7
 YOLOV3 pre-trained models
 
 # Requirements
-numpy==1.26.4
-
-opencv-python==4.9.0.80
-
-numba==0.59.0
+python -m pip install -r requirements.txt
 
 # Execution 
 A demo video (demo.mp4) has been provided to test the code. An output video (output.mp4) with the objects detected has also been provided.
