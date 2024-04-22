@@ -10,5 +10,7 @@ YOLOV3 pre-trained models
 # Requirements
 python -m pip install -r requirements.txt
 
+## yolov3.weights [Download here: https://drive.google.com/file/d/1iFK2-I6SI23A6wTnGOTx7kMfcM7OsVlT/view?usp=sharing] 
+
 # Execution 
 A demo video (demo.mp4) has been provided to test the code. An output video (output.mp4) with the objects detected has also been provided.
