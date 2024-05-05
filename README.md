@@ -16,7 +16,7 @@ python -m pip install -r requirements.txt
 A demo video (demo.mp4) has been provided to test the code. An output video (output.mp4) with the objects detected has also been provided.
 
 # TILED MATRIX MULTIPLICATION 
-Tiled matrix multiplication is implemented using Numba CUDA (numba tiled_mm.py) and C++ CUDA (c++ tiled_mm.cu). The Numba version is executed on RCHAU. For C++ CUDA version, the results are from the assignement (run on ASA-X) since RCHAU is currently inaccessible. But both the versions are executed on A100.
+Tiled matrix multiplication is implemented using Numba CUDA (numba tiled_mm.py) and C++ CUDA (c++_tiled_mm.cu). The Numba version is executed on RCHAU. For C++ CUDA version, the results are from the assignement (run on ASA-X) since RCHAU is currently inaccessible. But both the versions are executed on A100.
 
 # Requirements for running Numba CUDA version on RCHAU
 pip install numba
