@@ -22,6 +22,6 @@ Tiled matrix multiplication is implemented using Numba CUDA (numba tiled_mm.py) 
 pip install numba
 
 # Requirements for running C++ CUDA version on ASA-X 
-The makefile with the name "Makefile" and the bash script named "bash.sh" are provided.
+The required makefile with the name "Makefile" and the bash script named "bash.sh" are provided.
 
 This can also be run on RCHAU using slurm script.
